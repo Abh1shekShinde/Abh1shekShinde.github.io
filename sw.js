@@ -14,7 +14,7 @@
     var CACHE_NAME = 'my-site-cache-v1';
     var urlsToCache = [
     '/',
-    'feedbackform.html',
+    'index.html',
     /* '/styles/main.css',
     '/script/main.js' */
     ];
